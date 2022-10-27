@@ -1,4 +1,4 @@
-##🧢 About Me:
+# 💫 About Me:
 💻 Currently working on schoolwork and a personal blog/website.<br>💡 Interests in Software Development and Data Science.
 
 
