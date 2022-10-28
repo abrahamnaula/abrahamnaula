@@ -19,4 +19,4 @@
 <img src="https://memes.stormix.co/send/memes" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abrahamnaula&icon=3&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abrahamnaula&icon=3&color=#F56600)](https://visitcount.itsvg.in)
