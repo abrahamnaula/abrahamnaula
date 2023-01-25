@@ -1,5 +1,5 @@
 # 🧢 About Me:
-💻 Currently studying for finals.<br>💡 Interests in Software Development and Data Science.
+💻 Currently taking classes in Full-Stack Software Development and Cloud Computing.<br>💡 Interests in Software Development and Data Science.
 
 
 ## 🌐 Socials:
