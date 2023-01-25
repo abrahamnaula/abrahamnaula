@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme 💀 
-<img src="https://memes.stormix.co/send/memes" width="512px"/>
+<img src="eager-meitner-f8adb8.netlify.app/.netlify/functions/random" width="512px"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=abrahamnaula&color=F56600)
