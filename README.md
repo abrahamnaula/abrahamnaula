@@ -1,5 +1,5 @@
 # 🧢 About Me:
-💻 Currently taking classes in Full-Stack Software Development and Cloud Computing.<br>💡 Interests in Software Development and Data Science.
+💻 Currently taking classes in Full-Stack Software Development and Cloud Computing.<br>💡 Interests in Software Development, Cloud Computing, and Data Analysis.
 
 
 ## 🌐 Socials:
