@@ -1,5 +1,5 @@
 # 🧢 About Me:
-💻 Currently taking classes in Full-Stack Software Development and Cloud Computing.<br>💡 Interests in Software Development, Cloud Computing, and Data Analysis.
+💻 🎓 Graduating from Clemson University with a Bachelor's Degree in Computer Science. <br>💡 Interests in Software Development, Cloud Computing, and Data Analysis.
 
 
 ## 🌐 Socials:
