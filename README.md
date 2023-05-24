@@ -1,5 +1,5 @@
 # 🧢 About Me:
-🎓 Studied at Clemson University and earned my Bachelor's Degree in Computer Science 💻<br>💡 Interests in Software Development, Cloud Computing, and Data Analysis ⎔ ☁️ 📈
+🎓 Studied at Clemson University - Bachelor's Degree in Computer Science 💻<br>💡 Interests in Software Development, Cloud Computing, and Data Analysis ⎔ ☁️ 📈
 
 
 ## 🌐 Socials:
