@@ -6,7 +6,7 @@
 - https://losthairclip.com/
 - (View promo if above is password protected ->) https://www.instagram.com/reel/C8xVSq0JS_I/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 - https://thepuresauce.com/
-- Contact Me for more (for password protected work)
+- Contact Me for more (password protected work)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anaula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abrahamnaula) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abraham-Naula) 
